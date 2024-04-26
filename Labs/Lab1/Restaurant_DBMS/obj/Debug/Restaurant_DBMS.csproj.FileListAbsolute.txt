@@ -1,0 +1,10 @@
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\bin\Debug\Restaurant_DBMS.exe.config
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\bin\Debug\Restaurant_DBMS.exe
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\bin\Debug\Restaurant_DBMS.pdb
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.Form1.resources
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.Properties.Resources.resources
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.csproj.GenerateResource.cache
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.exe
+C:\Users\cosmi\OneDrive\Desktop\DBMS_FACULTATE\Restaurant_DBMS\Restaurant_DBMS\obj\Debug\Restaurant_DBMS.pdb
