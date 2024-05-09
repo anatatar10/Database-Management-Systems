@@ -1,0 +1,7 @@
+use Restaurant
+go
+
+BEGIN TRAN
+WAITFOR DELAY '00:00:04'
+INSERT INTO Ingredients VALUES ('Pepper')
+COMMIT TRAN
