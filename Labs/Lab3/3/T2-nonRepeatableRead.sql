@@ -1,0 +1,13 @@
+USE Restaurant
+GO
+
+--will see both value for address
+SET TRANSACTION ISOLATION LEVEL READ COMMITTED
+BEGIN TRAN
+--see first insert
+SELECT * FROM Customers
+WAITFOR DELAY '00:00:05'
+SELECT * FROM Customers
+COMMIT TRAN
+
+--DELETE FROM CUSTOMERS WHERE LastName = 'Halep'
